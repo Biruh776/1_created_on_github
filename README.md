@@ -70,7 +70,7 @@ This section lists everything I hate about her.
 - [x] Jump off a bridge
 
 | Name | Age | Profession |
-|:------:|:------:|:-----:|
+|:------:|:------:|:-----|
 |Bruh|24|Student|
 |John|37|Engineer|
 |Erica|14|Unemployed|
