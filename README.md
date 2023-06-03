@@ -19,8 +19,8 @@ Written by Lake Bruh Tesfaye ~~a flaming hot guy~~
 
 ## 2.1 Content
 
-1. [First Markdown](#22-first-section)
-1. [second Section](#23-second-section)
+1. [First Section](#22-first-section)
+1. [Second Section](#23-second-section)
 1. [Third Section](#24-third-section)
 
 **Unordered List**
